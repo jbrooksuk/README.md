@@ -1,4 +1,4 @@
-# 👋 Hey there!
+![James Brooks](https://github.com/jbrooksuk/jbrooksuk/raw/master/header.gif)
 
 ![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor%20jbrooksuk&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/jbrooksuk)
 
