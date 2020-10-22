@@ -4,9 +4,9 @@
 
 My name is James Brooks aka [@jbrooksuk](https://twitter.com/jbrooksuk), like everywhere!
 
-I'm a Software Developer at [Laravel](https://laravel.com). I work on [Envoyer](https://envoyer.io), [Forge](https://forge.laravel.com) and [Nova](https://nova.laravel.com).
+I'm a Software Developer at [Laravel](https://laravel.com). I work on [Envoyer](https://envoyer.io) and [Forge](https://forge.laravel.com).
 
-I created [Cachet](https://github.com/CachetHQ/Cachet), the open source status page. I'm currently working on [Cronbox](https://cronbox.app), a better way to monitor your cron jobs.
+I created [Cachet](https://github.com/CachetHQ/Cachet), the open source status page. I'm currently working on [ContestKit](https://contestkit.com).
 
 Sometimes - _when I get the feeling to_ - I write blog posts over at [james.brooks.page](https://james.brooks.page).
 
