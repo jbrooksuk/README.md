@@ -5,7 +5,7 @@
 
 Hi there! I'm [James](https://james.brooks.page) and I'm a software developer at [Laravel](https://laravel.com). I build developer services, [Laravel Forge](https://forge.laravel.com) and [Envoyer](https://envoyer.io).
 
-I previously built [Cachet](https://cachethq.io), an open source status page system. It was an incredible experience, and it was even acquired by [apilayer](https://apilayer.com) in 2018.
+I built [Cachet](https://cachethq.io), an open-source status page system. after being acquired in 2018, I bought it back in August 2023. We're now working on [3.x](https://github.com/CachetHQ/Cachet/discussions/4342). 
 
 I now work on the [Laravel Artisan Cheatsheet](https://artisan.page), which is a resource for Laravel developers to learn more about Artisan commands.
 
